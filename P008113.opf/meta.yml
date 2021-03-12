@@ -5,11 +5,12 @@ source_metadata:
   title: ཏཱ་ར་ནཱ་ཐའི་རང་རྣམ་མ་བཅོས་ལྷུག་པའི་རྟོགས་བརྗོད།
   author: ''
   volumes:
-    ff5b2280c80e43c68e57fea270453bb3:
+    b11f56a7d51e4c03b984336b313aa8cd:
       image_group_id: I1KG4926
-      title: ''
+      title: Volume 1 of tāranātha
       volume_number: 1
       total_pages: 666
+      base_file: v001.txt
 ebook_metadata:
   title: ཏཱ་ར་ནཱ་ཐའི་རང་རྣམ་མ་བཅོས་ལྷུག་པའི་རྟོགས་བརྗོད།
   author: ''
